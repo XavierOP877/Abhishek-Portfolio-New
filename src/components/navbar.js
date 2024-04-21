@@ -23,7 +23,7 @@ function navbar() {
       <a className="mr-5 text-xl hover:text-indigo-600" href="/#about">About</a>
       <a className="mr-5 text-xl hover:text-indigo-600" href="/#contact">Contact</a>
     </nav>
-    <button className="inline-flex items-center bg-gray-200 border-0 py-2 px-6 focus:outline-none hover:bg-gray-300 rounded text-base mt-4 md:mt-0"> <a href="https://drive.google.com/file/d/1Exb6i3li1UYwmUAPDQj9jL0Lf-gdsLQa/view?usp=sharing" rel="noopener noreferrer" target="_blank" >Resume
+    <button className="inline-flex items-center bg-gray-200 border-0 py-2 px-6 focus:outline-none hover:bg-gray-300 rounded text-base mt-4 md:mt-0"> <a href="https://drive.google.com/file/d/1q4wR5-_LwavUXfyECn4TgTC7z6pTpWZU/view?usp=sharing" rel="noopener noreferrer" target="_blank" >Resume
       </a>
     </button>
   </div>

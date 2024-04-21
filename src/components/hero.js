@@ -16,7 +16,7 @@ export default function Hero() {
       <p className="mb-8 leading-relaxed text-2l">A Passionate Problem Solver before a Developer. I combine my creative and problem solving skills to give out what's best for the Product & Humans.<br/></p>
       <div className="flex justify-center">
       <a href="#work"> <button className="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Work</button></a>
-      <a href="https://drive.google.com/file/d/1Exb6i3li1UYwmUAPDQj9jL0Lf-gdsLQa/view?usp=sharing" rel="noopener noreferrer" target="_blank" ><button className="ml-4 inline-flex text-gray-700 bg-gray-200 border-0 py-2 px-6 focus:outline-none hover:bg-gray-300 rounded text-lg"> Resume</button></a>
+      <a href="https://drive.google.com/file/d/1q4wR5-_LwavUXfyECn4TgTC7z6pTpWZU/view?usp=sharing" rel="noopener noreferrer" target="_blank" ><button className="ml-4 inline-flex text-gray-700 bg-gray-200 border-0 py-2 px-6 focus:outline-none hover:bg-gray-300 rounded text-lg"> Resume</button></a>
       </div>
     </div>
     <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 md:order-2 order-1 ">
